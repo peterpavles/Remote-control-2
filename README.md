@@ -1,4 +1,4 @@
-# Remote-control
+# QT Based Remote-control
 
 科锐2阶段Windows下远程控制项目
 
